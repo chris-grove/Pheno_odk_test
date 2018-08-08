@@ -1,7 +1,7 @@
 defined_class	defined_class_label	entity	entity_label
 MP:0013445	"Harderian gland atrophy"	UBERON:0004187	"Harderian gland"
 MP:0013599	"Leydig cell atrophy"	CL:0000178	"Leydig cell"
-MP:0001345	"Meibomian gland atrophy"	UBERON:0001818	"tarsal gland"
+MP:0001345	"Meibomian grand atrophy"	UBERON:0001818	"tarsal gland"
 MP:0013366	"adrenal gland atrophy"	UBERON:0002369	"adrenal gland"
 MP:0030466	"alveolar process atrophy"	UBERON:0004103	"alveolar ridge"
 MP:0012506	"brain atrophy"	UBERON:0000955	"brain"
