@@ -2,7 +2,7 @@
 
 # pheno-odk-test
 
-**The ontologies on this reposotory are for testing and teaching purposes only**
+**The ontologies on this repository are for testing and teaching purposes only**
 
 ## Versions
 
